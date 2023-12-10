@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sagar/OneDrive%20-%20MSFT/Desktop/mlflowtest/mlruns/0/61f306ce46604bacbb434519fadd1e71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61f306ce46604bacbb434519fadd1e71
+run_name: unequaled-ray-943
+run_uuid: 61f306ce46604bacbb434519fadd1e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702186168452
+status: 1
+tags: []
+user_id: sagar

@@ -4,17 +4,17 @@
 
 ## For Dagshub:
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Basic-Demo.mlflow
-MLFLOW_TRACKING_USERNAME=entbappy
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+MLFLOW_TRACKING_URI=https://dagshub.com/Sagar230595/MLflow-Basic-Operation.mlflow \
+MLFLOW_TRACKING_USERNAME=Sagar230595 \
+MLFLOW_TRACKING_PASSWORD=b946b0e3def1533ba2d91acb82c680ba39f12bb1 \
 python script.py
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Basic-Demo.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Sagar230595/MLflow-Basic-Operation.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=Sagar230595
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=b946b0e3def1533ba2d91acb82c680ba39f12bb1
 
 ```
